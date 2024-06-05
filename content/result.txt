@@ -1,0 +1,1 @@
+here is the first and second values : Hello thuis is first text file,hello this is second text file 
